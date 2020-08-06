@@ -6,7 +6,7 @@ Your feedback and support is appreciated.
 
 Contents: 
 
-* [Image registration using mean square metric, 2d translation transform, and gradient descent]()
+* [Image registration using mean square metric, 2d translation transform, and gradient descent](https://github.com/MedicalImageAnalysisTutorials/ImageRegistrationTutorial/blob/master/m2p_image_registration_example.ipynb)
   - TODO 01: fix the current error, metric is not minmised.  
   - TODO 02: implement a simple image gradient e.g. sobel
   - TODO 03: implement a simple interpolation
