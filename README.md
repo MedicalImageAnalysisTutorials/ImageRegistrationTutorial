@@ -1,4 +1,4 @@
-# ImageRegistrationTutorial
+# Image Registration Tutorials
 
 This repository provides colab python notebooks (you can also run these notebooks using jupyter) that help beginners to learn and practice image registration in a simple way using arrays. I try to explain the math behind image registration components using simple python code.
 
